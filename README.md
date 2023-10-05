@@ -1,6 +1,6 @@
 # Functions and Errors
 
-functionsanderrors.sol is a program to create Pogcoins. It is an updated version of createatoken.sol(https://github.com/KyleDV/Create-a-Token) with error handling.
+functionsanderrors.sol is a program to create Pogcoins. It is an updated version of createatoken.sol (https://github.com/KyleDV/Create-a-Token) with error handling.
 
 ## Description
 
