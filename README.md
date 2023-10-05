@@ -16,15 +16,15 @@ The testburn function test if you have enough balance to burn, it will display a
 
 ### Installing
 
-* Downlad the createasol.sol
+* Downlad the functionsanderrors.sol
 * functionsanderrors.sol can be run using the online solidity IDE https://remix.ethereum.org/
 
 ### Executing program
 
 * Go to https://remix.ethereum.org/
 * Right click on a blank area in FILE EXPORER(Right Window) and click upload file
-* Upload createasol.sol
-* Open on createasol.sol in FILE EXPORER
+* Upload functionsanderrors.sol
+* Open on functionsanderrors.sol in FILE EXPORER
 * Open the Solidity compiler(third icon on the far right)
 * Click "Compile"
 * Open the Deploy & run transactions(fourth icon on the far right)
