@@ -17,7 +17,7 @@ The testburn function test if you have enough balance to burn, it will display a
 ### Installing
 
 * Downlad the createasol.sol
-* createasol.sol can be run using the online solidity IDE https://remix.ethereum.org/
+* functionsanderrors.sol can be run using the online solidity IDE https://remix.ethereum.org/
 
 ### Executing program
 
