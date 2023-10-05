@@ -1,12 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
- /**
-   * @title ContractName
-   * @dev ContractDescription
-   * @custom:dev-run-script compiler_config.json
-   */
-
 contract MyToken {
 
     // public variables here
