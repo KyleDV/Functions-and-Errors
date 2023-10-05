@@ -28,7 +28,7 @@ The testburn function test if you have enough balance to burn, it will display a
 * Open the Solidity compiler(third icon on the far right)
 * Click "Compile"
 * Open the Deploy & run transactions(fourth icon on the far right)
-* * Click "Deploy"
+* Click "Deploy"
 
 ## Authors
 
